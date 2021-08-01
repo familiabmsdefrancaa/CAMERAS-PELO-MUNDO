@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR orange][B]CAMERA:Wroclaw Prezed- Breslavia Polonia[/B][/COLOR]</title>
+<title>[COLOR orange][B]CAMERA:WROCLAW PREZED- BRESLAVIA POLONIA[/B][/COLOR]</title>
 <link>http://hstream1.webcamera.pl/wroclaw_przed_cam_16c68e/wroclaw_przed_cam_16c68e.stream/playlist.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Wroc%C5%82aw_-_Rynek_2015-12-25_12-44-18.JPG/271px-Wroc%C5%82aw_-_Rynek_2015-12-25_12-44-18.JPG</thumbnail>
 <genre>CAMERAS PELO MUNDO</genre>
@@ -10,7 +10,7 @@
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>[COLOR orange][B]CAMERA:Cracóvia - Polonia[/B][/COLOR]</title>
+<title>[COLOR orange][B]CAMERA:CRACÓVIA - POLONIA[/B][/COLOR]</title>
 <link>http://hls1.webcamera.pl/krakowsan_cam_480f1a/krakowsan_cam_480f1a.stream/chunks.m3u8</link>
 <thumbnail>https://www.segurospromo.com.br/blog/wp-content/uploads/2020/08/cracovia-polonia.jpg</thumbnail>
 <genre>CAMERAS PELO MUNDO</genre>
@@ -21,7 +21,7 @@
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>[COLOR orange][B]CAMERA:Dziwnów - Polonia[/B][/COLOR]</title>
+<title>[COLOR orange][B]CAMERA:DIZIWNÓW - POLONIA[/B][/COLOR]</title>
 <link>http://hls1.webcamera.pl/dziwnowum_cam_a4181f/dziwnowum_cam_a4181f.stream/chunks.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/59/Dziwn%C3%B3w1.JPG</thumbnail>
 <genre>CAMERAS PELO MUNDO</genre>
@@ -32,7 +32,7 @@
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>[COLOR orange][B]CAMERA:Olsztyn[/B][/COLOR]</title>
+<title>[COLOR orange][B]CAMERA:OLSZTYN - POLONIA[/B][/COLOR]</title>
 <link>http://video-auth1.iol.pt:1935/beachcam/alvor/chunks.m3u8</link>
 <thumbnail>https://www.polonia.travel/images/pt-BR/miasta/Olsztyn2_540_360.jpg</thumbnail>
 <genre>CAMERAS PELO MUNDO </genre>
@@ -76,7 +76,7 @@
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>[COLOR orange][B]CAMERA: Carcavelos - Portugal[/B][/COLOR]</title>
+<title>[COLOR orange][B]CAMERA: CARCAVELOS - PORTUGAL[/B][/COLOR]</title>
 <link>http://video-auth1.iol.pt:1935/beachcam/carcavelos/chunks.m3u8</link>
 <thumbnail>https://media-cdn.tripadvisor.com/media/photo-s/11/9c/10/20/praia-de-carcavelos.jpg</thumbnail>
 <genre></genre>
@@ -87,7 +87,7 @@
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>[COLOR orange][B]CAMERA: Costa da Caparica - Portugal[/B][/COLOR]</title>
+<title>[COLOR orange][B]CAMERA: COSTA DA CAPARICA - PORTUGAL[/B][/COLOR]</title>
 <link>http://video-auth1.iol.pt:1935/beachcam/costacaparicacds/chunks.m3u8</link>
 <thumbnail>https://mediaim.expedia.com/destination/7/88ab5fb0a251dcf60ef504c34d64748b.jpg?impolicy=fcrop&w=536&h=384&q=high</thumbnail>
 <genre>CAMERAS PELO MUNDO</genre>
@@ -98,7 +98,7 @@
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>[COLOR orange][B][/B]CAMERA: Carvalhal - Portugal[/COLOR]</title>
+<title>[COLOR orange][B][/B]CAMERA: CARVALHAL - PORTUGAL[/COLOR]</title>
 <link>http://video-auth1.iol.pt:1935/beachcam/carvalhal/chunks.m3u8</link>
 <thumbnail>https://media-cdn.tripadvisor.com/media/photo-s/04/56/51/bf/praia-do-pego.jpg</thumbnail>
 <genre>CAMERAS PELO MUNDO</genre>
@@ -109,7 +109,7 @@
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>[COLOR orange][B]CAMERAS: Ericeiras Portugal[/B][/COLOR]</title>
+<title>[COLOR orange][B]CAMERAS: ERICEIRAS - PORTUGAL[/B][/COLOR]</title>
 <link>http://video-auth1.iol.pt:1935/beachcam/ericeiraspots/chunks.m3u8</link>
 <thumbnail>https://media-cdn.tripadvisor.com/media/photo-s/01/17/4f/4c/fisherman-s-beach.jpg</thumbnail>
 <genre>CAMERAS PELO MUNDO</genre>
@@ -117,5 +117,85 @@
 <date></date>
 <epg></epg>
 <fanart>https://media-cdn.tripadvisor.com/media/photo-s/01/17/4f/4c/fisherman-s-beach.jpg</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR orange][B]CAMERA: ESPINHO - PORTUGAL[/B][/COLOR]</title>
+<link>http://video-auth1.iol.pt:1935/beachcam/espinho/chunks.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/8b/Espinho_r%C3%BAa_19_Portugal_wGL.jpg</thumbnail>
+<info>Cameras Pelo Mundo</info>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/8/8b/Espinho_r%C3%BAa_19_Portugal_wGL.jpg</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR orange][B]CAMERA: FURADOURO - PORTUGAL[/B][/COLOR]</title>
+<link>http://video-auth1.iol.pt:1935/beachcam/furadouro/chunks.m3u8</link>
+<thumbnail>https://media-cdn.tripadvisor.com/media/photo-s/07/0d/23/06/aveiro-ovar-furadouro.jpg</thumbnail>
+<info>Cameras Pelo Mundo</info>
+<fanart>https://media-cdn.tripadvisor.com/media/photo-s/07/0d/23/06/aveiro-ovar-furadouro.jpg</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR orange][B]CAMERA: PRAIA GRANDE - PORTUGAL[/B][/COLOR]</title>
+<link>http://video-auth1.iol.pt:1935/beachcam/praiagrande/chunks.m3u8</link>
+<thumbnail>https://thumbs.dreamstime.com/z/praia-grande-portugal-beautiful-sunset-portuguese-beach-view-atlantic-big-waves-colares-sintra-195645075.jpg</thumbnail>
+<info>Cameras Pelo Mundo</info>
+<fanart>https://thumbs.dreamstime.com/z/praia-grande-portugal-beautiful-sunset-portuguese-beach-view-atlantic-big-waves-colares-sintra-195645075.jpg</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR orange][B]CAMERA: PRAIA DO GUINHO SUL - PORTUGAL[/B][/COLOR]</title>
+<link>http://video-auth1.iol.pt:1935/beachcam/praiaguinchosul/chunks.m3u8</link>
+<thumbnail>https://cdn.visitportugal.com/sites/default/files/styles/large/public/mediateca/LIS_Cascais-Guincho_660x371.jpg?itok=eNWyz1oY</thumbnail>
+<info>Cameras Pelo Mundo</info>
+<fanart>https://cdn.visitportugal.com/sites/default/files/styles/large/public/mediateca/LIS_Cascais-Guincho_660x371.jpg?itok=eNWyz1oY</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR orange][B]CAMERA: LAGIDE - PORTUGAL[/B][/COLOR]</title>
+<link>http://video-auth1.iol.pt:1935/beachcam/lagide/chunks.m3u8</link>
+<thumbnail>https://ec2-im-1.msw.ms/md/image.php?id=4968&type=PHOTOLAB&resize_type=STREAM_MEDIUM_SQUARE&fromS3</thumbnail>
+<info>Cameras Pelo Mundo</info>
+<fanart>https://ec2-im-1.msw.ms/md/image.php?id=4968&type=PHOTOLAB&resize_type=STREAM_MEDIUM_SQUARE&fromS3</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR orange][B]CAMERA:LECA DA PALMEIRA - PORTUGAL[/B][/COLOR]</title>
+<link>http://video-auth1.iol.pt:1935/beachcam/lecadapalmeira/chunks.m3u8</link>
+<thumbnail>https://media-cdn.tripadvisor.com/media/photo-s/06/75/b1/1a/pool.jpg</thumbnail>
+<info>Cameras Pelo Mundo</info>
+<fanart>https://media-cdn.tripadvisor.com/media/photo-s/06/75/b1/1a/pool.jpg</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR orange][B][/B][/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+<info>Cameras Pelo Mundo</info>
+<fanart></fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR orange][B]CAMERA: MATOSINHO - PORTUGAL[/B][/COLOR]</title>
+<link>http://video-auth1.iol.pt:1935/beachcam/matosinhos/chunks.m3u8</link>
+<thumbnail>https://www.eurodicas.com.br/wp-content/uploads/2021/04/vista-aerea-matosinhos.jpg</thumbnail>
+<info>Cameras Pelo Mundo</info>
+<fanart>https://www.eurodicas.com.br/wp-content/uploads/2021/04/vista-aerea-matosinhos.jpg</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR orange][B]CAMERA: MEIA PRAIA - PORTUGAL[/B][/COLOR]</title>
+<link>http://video-auth1.iol.pt:1935/beachcam/meiapraia/chunks.m3u8</link>
+<thumbnail>https://images.turismoenportugal.org/Meia-Praia-Lagos.jpg</thumbnail>
+<info>Cameras Pelo Mundo</info>
+<fanart>https://images.turismoenportugal.org/Meia-Praia-Lagos.jpg</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR orange][B]CAMERA: NAZARÉ PRAIA DO NORTE - PORTUGAL[/B][/COLOR]</title>
+<link>http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/chunks.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Can_you_see_the_surfer%3F_%2833988985575%29.jpg/220px-Can_you_see_the_surfer%3F_%2833988985575%29.jpg</thumbnail>
+<info>Cameras Pelo Mundo</info>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Can_you_see_the_surfer%3F_%2833988985575%29.jpg/220px-Can_you_see_the_surfer%3F_%2833988985575%29.jpg</fanart>
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
